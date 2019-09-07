@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1567808185 source:c:\users\zatito\desktop\workspace_c\tp_01\tp1_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones\funciones.h"
+
+1567733958 c:\users\zatito\desktop\workspace_c\tp_01\tp1_v1\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1567806915 c:\users\zatito\desktop\workspace_c\tp_01\tp1_v1\funciones\funciones.h
+
+1567808965 source:c:\users\zatito\desktop\workspace_c\tp_01\tp1_v1\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1567822487 source:c:\users\zatito\desktop\workspace_c\tp1_v1\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"funciones.h"
+
+1567823233 c:\users\zatito\desktop\workspace_c\tp1_v1\funciones\funciones.h
+
+1567822589 source:c:\users\zatito\desktop\workspace_c\tp1_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones\funciones.h"
+
